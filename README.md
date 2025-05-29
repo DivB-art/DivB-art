@@ -9,3 +9,10 @@ Data Cleaning, KPI Reporting
 
 ###Data Professional Survey  
 👉 [ View Project ]  
+
+
+
+
+Let's Connect
+- 📧 divya@151994@gmail.com
+- [LinkedIn] www.linkedin.com/in/divya-b15
