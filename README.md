@@ -3,9 +3,9 @@ Data Analyst with 4+ years of experience in building dashboards and uncovering i
 
 ##Tools & Technologies
 Excel, Power BI, SQL, Goofle Sheets
-Data Cleaning, KPI Reporting
+Data Cleaning, KPI Reporting  
 
 ##Protfolio Projects
 
-###Data Professional Survey
+###Data Professional Survey  
 👉 [ View Project ]  
