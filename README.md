@@ -14,5 +14,5 @@ Data Cleaning, KPI Reporting
 
 
 Let's Connect
-- 📧 divya@151994@gmail.com
+- 📧 divya.b@151994@gmail.com
 - [LinkedIn] www.linkedin.com/in/divya-b15
