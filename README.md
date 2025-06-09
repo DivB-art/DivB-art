@@ -1,13 +1,13 @@
 ## Hi there 👋
 Data Analyst with 4+ years of experience in building dashboards and uncovering insights from complex datasets.
 
-##Tools & Technologies
+## Tools & Technologies
 Excel, Power BI, SQL, Goofle Sheets
 Data Cleaning, KPI Reporting  
 
-##Protfolio Projects
+## Protfolio Projects
 
-###Data Professional Survey  
+### Data Professional Survey  
 👉 [ View Project ]  https://github.com/DivB-art/DivB-art/blob/main/Survey%20Analysis.pbix
 
 <span style="color:green" 
