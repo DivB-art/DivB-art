@@ -8,7 +8,7 @@ Data Cleaning, KPI Reporting
 ## Protfolio Projects
 
 ### Data Professional Survey  
-👉 [ View Project ]  https://github.com/DivB-art/DivB-art/blob/main/Survey%20Analysis.pbix
+👉 [ View Project ]  
 
 <span style="color:green" 
 
