@@ -27,10 +27,10 @@ EDA Involoved exploring the survey data to answer key questions, such as;
 
 ### Findings
 
-Data Scientist had a higher average salary compared to other titles
-Python was most favorte
-Amoung survey respondents, average rating was 5.74 out of 10 for work life balance and 4.27 out of 10 for salary satisfication
-42.7% have voted for neither easy nor diffcult to breaking into data.
+- Data Scientist had a higher average salary compared to other Job titles
+- Python was most favorite
+- Amoung survey respondents, average rating was 5.74 out of 10 for work life balance and 4.27 out of 10 for salary satisfication
+- 42.7% have voted for neither easy nor diffcult to breaking into data.
 
 ### Recommedations
 
