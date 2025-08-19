@@ -7,7 +7,7 @@ This project analyzes survey responses from data professionals around the world.
 Survey Data ; The Primary Data set used for this analysis is the "Data Professional Survey.xlsx" file, containing information about the people who are working in data related field.
 
 ### Tools
-Excel - Source Data [Download here](https://github.com/DivB-art/DivB-art/blob/main/Projects/Survey%20Analysis/Power%20BI%20-%20Final%20Project.xlsx)
+Excel - Source Data [Download here](https://github.com/DivB-art/DivB-art/blob/main/Projects/Survey%20Analysis/Power%20BI%20-%20Final%20Project.xlsx) 
 Power Query - Data Cleaning
 Power BI - Creating reports
 
