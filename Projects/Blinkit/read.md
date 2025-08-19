@@ -1,3 +1,6 @@
+<img width="876" height="491" alt="Screenshot 2025-08-19 193207" src="https://github.com/user-attachments/assets/f02d29a9-c280-4062-8093-10aefe32755a" />
+
+
 # BlinkIT Sales Analysis
 
 ### Project Overview
