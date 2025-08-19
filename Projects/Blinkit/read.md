@@ -24,7 +24,7 @@ Initailly Task Performed is as follows .
 ### Insights
 - Category Performance: Snacks and Fruits contributed the most to overall sales, while Frozen Foods and Health/Beauty were at the lower end.
 - Outlet Contribution: Medium-sized outlets generated the highest revenue compared to small outlets.
-- Location Trends: Tier 1 cities had the largest sales share, but Tier 3 cities showed consistent growth across years.
+- Location Trends: Tier 3 cities had the largest sales share, compared to Tier 1 and Tier 2.
 - Customer Ratings: Average rating (~3.9) remained consistent across item categories, indicating ratings were not a differentiating factor in sales performance.
 - Sales Trends: Steady growth from 2012–2022, with a notable peak around 2018–2019.
 
