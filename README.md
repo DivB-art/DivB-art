@@ -12,7 +12,10 @@ Data Cleaning, KPI Reporting
 - 👉 [Description] (https://github.com/DivB-art/DivB-art/blob/main/Projects/Survey%20Analysis/read.md))
 
 
+### BlinkIT Analysis
 
+- 👉[View Project] (https://github.com/DivB-art/DivB-art/blob/main/Projects/Blinkit/Blinkit.pbix)
+- 👉 [Description] (https://github.com/DivB-art/DivB-art/blob/main/Projects/Blinkit/read.md)
 
 
 
